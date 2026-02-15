@@ -875,6 +875,8 @@ Updating...
 
 [Genei](https://www.genei.io/) - Automatically summarise background reading and produce blogs, articles, and reports faster.
 
+[SummaryTube](https://summarytube.com/) - Summarize Youtube videos for free using AI. Get transcripts & analysis of Key insights, Key moments, Q&A's, Top comments.
+
 [Otter AI](https://otter.ai/) - Otter is your AI assistant that writes and summarizes meeting notes for your team, 30x faster than you can. 
 
 [Scholarcy](https://www.scholarcy.com/) - The AI-powered article summarizer.
